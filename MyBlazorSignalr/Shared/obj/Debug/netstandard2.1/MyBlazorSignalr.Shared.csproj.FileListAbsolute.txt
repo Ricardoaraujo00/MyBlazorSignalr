@@ -1,0 +1,9 @@
+C:\Users\ricar\source\repos\MyBlazorSignalr\MyBlazorSignalr\Shared\bin\Debug\netstandard2.1\MyBlazorSignalr.Shared.deps.json
+C:\Users\ricar\source\repos\MyBlazorSignalr\MyBlazorSignalr\Shared\bin\Debug\netstandard2.1\MyBlazorSignalr.Shared.dll
+C:\Users\ricar\source\repos\MyBlazorSignalr\MyBlazorSignalr\Shared\bin\Debug\netstandard2.1\MyBlazorSignalr.Shared.pdb
+C:\Users\ricar\source\repos\MyBlazorSignalr\MyBlazorSignalr\Shared\obj\Debug\netstandard2.1\MyBlazorSignalr.Shared.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\MyBlazorSignalr\MyBlazorSignalr\Shared\obj\Debug\netstandard2.1\MyBlazorSignalr.Shared.AssemblyInfo.cs
+C:\Users\ricar\source\repos\MyBlazorSignalr\MyBlazorSignalr\Shared\obj\Debug\netstandard2.1\MyBlazorSignalr.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\MyBlazorSignalr\MyBlazorSignalr\Shared\obj\Debug\netstandard2.1\MyBlazorSignalr.Shared.dll
+C:\Users\ricar\source\repos\MyBlazorSignalr\MyBlazorSignalr\Shared\obj\Debug\netstandard2.1\MyBlazorSignalr.Shared.pdb
+C:\Users\ricar\source\repos\MyBlazorSignalr\MyBlazorSignalr\Shared\obj\Debug\netstandard2.1\MyBlazorSignalr.Shared.csprojAssemblyReference.cache
